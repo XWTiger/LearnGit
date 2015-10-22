@@ -1,1 +1,2 @@
-tiger
+tiger 
+git is better than svn
